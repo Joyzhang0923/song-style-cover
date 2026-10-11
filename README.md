@@ -14,13 +14,13 @@
 把本仓库放进你所用客户端的 Skills 目录，例如：
 
 ```bash
-git clone https://github.com/<你的用户名>/song-style-cover.git ~/.codex/skills/song-style-cover
+git clone https://github.com/Joyzhang0923/song-style-cover.git ~/.codex/skills/song-style-cover
 ```
 
 或者把下面这段话发给能读写文件的 AI Agent：
 
 ```text
-请帮我安装这个 Agent Skill：https://github.com/<你的用户名>/song-style-cover
+请帮我安装这个 Agent Skill：https://github.com/Joyzhang0923/song-style-cover
 安装完成后确认 song-style-cover 可以使用。
 ```
 
